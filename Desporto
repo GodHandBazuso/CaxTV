@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1,SportTV1
 https://2204lw.janjua.pw:8088/live/sp0301/playlist.m3u8?vidictid=188338056150&id=102436&pk=bbf8783de6ea5c517ececf9bf9b30fe065f15e936f8accd0697da05b380d1e35
+#EXTINF:-1,SportTV2
+https://gyf2kx7w2g.azcdn381.net:8443/hls/u225jtufy2dkv.m3u8?s=Kgz7okqXLkHo4LIU1gSP5w&e=1627240898
